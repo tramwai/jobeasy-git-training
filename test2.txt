@@ -3,4 +3,5 @@ this a new line<<<<<<< HEAD
 this is test 2
 =======
 this a test
+this is another line
 >>>>>>> test
